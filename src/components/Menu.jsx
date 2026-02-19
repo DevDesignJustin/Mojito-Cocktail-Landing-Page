@@ -3,7 +3,6 @@ import { allCocktails } from "../../constants";
 import { useRef, useState } from "react";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
-import { SplitText } from "gsap/all";
 
 const Menu = () => {
   const contentRef = useRef();
