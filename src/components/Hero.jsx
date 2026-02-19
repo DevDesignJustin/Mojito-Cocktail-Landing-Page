@@ -27,7 +27,7 @@ const Hero = () => {
       duration: 1.8,
       ease: "expo.out",
       stagger: 0.05,
-      delay: 0.5,
+      delay: 1,
     });
 
     gsap
